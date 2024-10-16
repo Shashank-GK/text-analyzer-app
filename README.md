@@ -24,12 +24,34 @@ Follow these simple steps to set up the project on your local machine.
 git clone https://github.com/Shashank-GK/text-analyzer-app.git
 cd text-analyzer-app
 
-### Instructions to Complete the README:
+### 2. Install Dependencies
+-**Make sure you have Node.js installed. Then run:**
+npm install
 
-1. **Screenshots**: Make sure to replace the paths in the screenshots section with the actual paths to your screenshots. You can save your screenshots in the `public` folder of your project or any other location and update the links accordingly.
-   
-2. **License**: Ensure you have a `LICENSE` file in your repository if you're mentioning it in the README. You can create a simple MIT License if you haven't done so already.
+### 3.Run the Application.
+-**Start the development server:**
+npm start
 
-3. **Customization**: Feel free to adjust the wording or sections based on your preferences or additional features you might add to your app.
+## 📚 Usage
+- Enter your text in the input area.
+- Use the provided buttons to manipulate the text.
+- View analysis results directly below the input area.
+- Toggle the theme using the switch in the navigation bar.
 
-This comprehensive README provides a clear overview of your project, its functionality, and instructions for users and contributors. If you need further modifications or additions, just let me know!
+## 🤝 Contributing
+We welcome contributions! If you'd like to contribute to the Text Analyzer App, please follow these steps:
+
+Fork the repository.
+Create your feature branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a Pull Request.
+
+## 📫 Contact
+For any inquiries or feedback, feel free to reach out:
+
+- Name: Shashank G K
+- Email: shashankgk002@gmail.com
+- GitHub: Shashank-GK
+
+## Thank you for checking out the Text Analyzer App! Happy analyzing! 🎉
