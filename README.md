@@ -26,8 +26,8 @@ cd text-analyzer-app
 ```
 
 ### 2. Install Dependencies
--**Make sure you have Node.js installed.**
--**Then run:**
+- **Make sure you have Node.js installed.**
+- **Then run:**
 ```bash
 npm install
 ```
