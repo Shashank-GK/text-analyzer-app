@@ -36,12 +36,15 @@ npm install
 ```bash
 npm start
 ```
+---
 
 ## 📚 Usage
 - Enter your text in the input area.
 - Use the provided buttons to manipulate the text.
 - View analysis results directly below the input area.
 - Toggle the theme using the switch in the navigation bar.
+
+---
 
 ## 🤝 Contributing
 We welcome contributions! If you'd like to contribute to the Text Analyzer App, please follow these steps:
@@ -52,12 +55,16 @@ We welcome contributions! If you'd like to contribute to the Text Analyzer App, 
 - Push to the branch (git push origin feature/YourFeature).
 - Open a Pull Request.
 
+---
+
 ## 📫 Contact
 For any inquiries or feedback, feel free to reach out:
 
 - Name: Shashank G K
 - Email: shashankgk002@gmail.com
 - GitHub: Shashank-GK
+
+---
 
 ## Thank you for checking out the Text Analyzer App! Happy analyzing! 🎉
 
