@@ -23,5 +23,4 @@ Follow these simple steps to set up the project on your local machine.
 ```bash
 git clone https://github.com/Shashank-GK/text-analyzer-app.git
 cd text-analyzer-app
-
----
+```bash
